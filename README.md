@@ -18,7 +18,7 @@
 
 ## 📂 Мои проекты  
 
-### 📝 [Авторизация в Google аккаунте](https://github.com/s-nabievaaa/auth_google)  
+### 📝 [Авторизация в Google аккаунте](https://github.com/s-nabievaaa/QA_auth_google)  
 📌 Описание: В рамках этого проекта была протестирована форма авторизации Google
 
 ## 📫 Связаться со мной  
