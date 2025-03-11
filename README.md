@@ -8,10 +8,13 @@
 
 ## 🔧 Навыки и технологии  
 
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)  
-![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql)  
-![Jira](https://img.shields.io/badge/Jira-blue?logo=jira)  
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)  
+- 📌 **Тестовая документация:** чек-листы, тест-кейсы, баг-репорты  
+- 🔍 **Виды тестирования**
+- 🔄 **API тестирование**
+- 🌐 **HTTP-запросы**
+- 📂 **Базы данных:** SQL
+- 🔗 **Инструменты:** Jira, DevTools, TestRail  
+- 💻 **Операционные системы:** Windows, Linux   
 
 ## 📂 Мои проекты  
 
