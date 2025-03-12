@@ -18,9 +18,8 @@
 
 ## 📂 Мои проекты  
 
-### 📝 [Тестировании авторизации в Google аккаунте](https://github.com/s-nabievaaa/QA_auth_google)
 ### 📝 [Тестирование формы отправки данных](https://github.com/s-nabievaaa/QA_sibirix_test-form) 
-
+### 📝 [Тестировании авторизации в Google аккаунте](https://github.com/s-nabievaaa/QA_auth_google)
 
 ## 📫 Связаться со мной  
 
