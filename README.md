@@ -1,6 +1,6 @@
 # 👋 Привет, я Самира!  
 
-![eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51](https://github.com/user-attachments/assets/c35eae30-8035-4657-88a3-07d648512a22)
+![eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51](https://github.com/user-attachments/assets/1af68b5f-d552-4ecc-bc19-179b5afcc880)
 
 ### 🛠 Junior QA Engineer | Тестировщик ПО  
 
