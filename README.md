@@ -23,6 +23,7 @@
 ### 📝 [Тестирование мобильного приложения Яндекс](https://github.com/s-nabievaaa/QA_Yandex-Alice) 
 ### 📝 [Тестирование формы отправки данных](https://github.com/s-nabievaaa/QA_sibirix_test-form) 
 ### 📝 [Тестировании авторизации в Google аккаунте](https://github.com/s-nabievaaa/QA_auth_google)
+### 📝 [Mind maps](https://github.com/s-nabievaaa/QA_Mindmaps)
 
 ## 📫 Связаться со мной  
 
